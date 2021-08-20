@@ -1,6 +1,8 @@
 # About
 This is the personal webpage of Francisco Chima Sanchez. Welcome! I am a mathematics assistant professor at American River College in Sacramento, CA. I can be reached at [chimasf@arc.losrios.edu](mailto:chimasf@arc.losrios.edu).
 
+![Image of Instructor with Baby L](https://fchimasanchez.github.io/docs/20210323_164013_04.jpg)
+
 ## Teaching
 
 Fall 2021
